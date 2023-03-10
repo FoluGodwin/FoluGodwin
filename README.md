@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FoluGodwin
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning HTML, CSS, and JavaScript 
+- 👀 I’m a front-end developer 
+- 🌱 I’m currently skilled in HTML, CSS, and JavaScript 
 - 💞️ I’m looking to collaborate on certain project
 - 📫 How to reach me godwinfolu@gmail.com
 
