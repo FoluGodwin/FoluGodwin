@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FoluGodwin
-- 👀 I’m a front-end developer 
-- 🌱 I’m currently skilled in HTML, CSS, and JavaScript 
-- 💞️ I’m looking to collaborate on certain project
-- 📫 How to reach me godwinfolu@gmail.com
+- 👋 Hi, I’m @FoluGodwin.
+- 👀 I’m a front-end developer, 
+- 🌱 I’m currently skilled in HTML, CSS, and JavaScript.
+- 💞️ I’m looking to collaborate on certain projects.
+- 📫 You can reach me via: godwinfolu@gmail.com.
 
 <!---
 FoluGodwin/FoluGodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
